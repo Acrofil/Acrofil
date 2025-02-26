@@ -5,7 +5,7 @@ $ whoami
 > Passionate self-taught developer | Full Stack, Python, Flask, Linux, DevOps
 
 $ cat skills.txt  
-> - 🐍 Python | Flask | Jinja2 | JavaScript 
+> - 🐍 Python | Flask | SQLAlchemy | Jinja2 | JavaScript 
 > - 🌐 Full Stack Web Development  
 > - 🖥️ Linux Enthusiast | Shell Scripting  
 > - ⚙️ Automation & CI/CD | Docker | GitHub Actions
