@@ -1,8 +1,22 @@
 ```sh
-👋 Hey there! Welcome to my terminal...
+👋 Hey there! Welcome to my profile...
 
 $ whoami  
 > Passionate self-taught developer | Full Stack, Python, Flask, Linux, DevOps
+
+$ cat skills.txt  
+> - 🐍 Python | Flask | Jinja2 | JavaScript 
+> - 🌐 Full Stack Web Development  
+> - 🖥️ Linux Enthusiast | Shell Scripting  
+> - ⚙️ Automation & CI/CD | Docker | GitHub Actions
+> - 🛠️ DevOps & Cloud Exploration
+
+$ nano what_im_doing.txt  
+> - 🚀 Building scalable web apps  
+> - 🤖 Automating workflows & deployments  
+> - ⚙️ Exploring cloud & DevOps practices
+> - 🏗️ Contributing to open source  
+> - 📖 Always learning new tech  
 
 ```
 
